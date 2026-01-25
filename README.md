@@ -221,7 +221,7 @@
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
-        <div class="benefit-value">80% - 100% ของราคาประเมิน</div>
+        <div class="benefit-value">80% - 100%<br>ของราคาประเมิน</div>
       </div>
     </div>
     <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/homeloan/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%881-Th_261268.pdf" target="_blank">ดูรายละเอียดเพิ่มเติม ></a>
@@ -238,7 +238,7 @@
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
-        <div class="benefit-value">90% - 95% ของราคาประเมิน</div>
+        <div class="benefit-value">90% - 95%<br>ของราคาประเมิน</div>
       </div>
     </div>
     <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/homeloan/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%882-Th_261268.pdf" target="_blank">ดูรายละเอียดเพิ่มเติม ></a>
@@ -255,7 +255,7 @@
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
-        <div class="benefit-value">70% - 90% ของราคาประเมิน</div>
+        <div class="benefit-value">70% - 90%<br>ของราคาประเมิน</div>
       </div>
     </div>
     <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/homeloan/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%882-Th_261268.pdf" target="_blank">ดูรายละเอียดเพิ่มเติม ></a>
