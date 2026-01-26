@@ -137,7 +137,7 @@
       display: inline-block;
       margin-top: 15px;
       font-size: 0.85rem;
-      color: var(--blue;
+      color: var(--blue);
       text-decoration: none;
       font-weight: 600;
     }
@@ -187,12 +187,21 @@
       border-radius: 10px;
     }
 
+    /* Footer / Note */
+    .footer{
+      font-size: 0.75rem;
+      color: #777;
+      padding: 20px;
+      background: #eee;
+      margin-top: 20px;
+    }
+    
     .footer1{
       font-size: 0.75rem;
       color: #777;
       padding: 10px;
       background: #eee;
-      margin-top: 20px;
+      margin-top: 10px;
     }
 
     .footer2{
@@ -200,7 +209,7 @@
       color: #777;
       padding: 20px;
       background: #eee;
-      margin-top: -20px;
+      margin-top: -10px;
     }
     
   </style>
@@ -275,10 +284,10 @@
 
 <div class="footer1">
     <strong>หมายเหตุ :</strong>
-</div>
 <div class="footer2">
-    <li>วงเงินกู้ขึ้นอยู่กับประเภทของหลักประกัน อาชีพ รายได้ ความต้องการของลูกค้า<br>และหลักเกณฑ์ของธนาคาร</li>
+    <li>วงเงินกู้ขึ้นอยู่กับประเภทของหลักประกัน อาชีพ รายได้ ความต้องการของลูกค้า และหลักเกณฑ์ของธนาคาร</li>
     <li>การพิจารณาอนุมัติสินเชื่อเป็นไปตามหลักเกณฑ์และเงื่อนไขของธนาคาร ทั้งนี้ ธนาคารขอสงวนสิทธิ์ในการเปลี่ยนแปลงอัตราดอกเบี้ยรวมทั้งหลักเกณฑ์และเงื่อนไข โปรดตรวจสอบโปรโมชั่นส่งเสริมการขายกับเจ้าหน้าที่ก่อนการตัดสินใจ</li>
+</div>
 </div>
 
 </body>
