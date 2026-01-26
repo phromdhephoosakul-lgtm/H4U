@@ -187,15 +187,6 @@
       border-radius: 10px;
     }
 
-    /* Footer / Note */
-    .footer{
-      font-size: 0.75rem;
-      color: #777;
-      padding: 20px;
-      background: #eee;
-      margin-top: 20px;
-    }
-
     .footer1{
       font-size: 0.75rem;
       color: #777;
