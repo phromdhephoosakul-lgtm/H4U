@@ -58,6 +58,7 @@
 
     header p {
       font-size: 1rem;
+      padding: 20px;
       opacity: 0.9;
     }
 
@@ -124,6 +125,7 @@
 
     .benefit-label {
       font-size: 0.8rem;
+      padding: 20px;
       color: #666;
     }
 
@@ -165,7 +167,7 @@
       display: block;
       text-decoration: none;
       font-weight: bold;
-      font-size: 2rem;
+      font-size: 1.5rem;
       margin: 30px auto;
       max-width: 300px;
       box-shadow: 0 6px 20px rgba(227, 6, 19, 0.3);
