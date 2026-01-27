@@ -165,6 +165,7 @@
       display: block;
       text-decoration: none;
       font-weight: bold;
+      font-size: 2rem;
       margin: 30px auto;
       max-width: 300px;
       box-shadow: 0 6px 20px rgba(227, 6, 19, 0.3);
@@ -231,7 +232,7 @@
   <!-- Option 1 -->
   <div class="card">
     <div class="card-header">ซื้อบ้านมือหนึ่งและมือสอง<br>หรือปลูกสร้างบ้านบนที่ดินตนเอง</div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
+    <p style="font-size: 0.9rem;">• พนักงานประจำ รายได้ > 15,000 บาท;<br>• เจ้าของกิจการ รายได้ > 30,000 บาท</p>
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
@@ -248,7 +249,7 @@
   <!-- Option 2 -->
   <div class="card">
     <div class="card-header">ซื้อบ้านมือหนึ่งและมือสอง <span class="badge">ยอดฮิต</span></div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 30,000 บาท เท่านั้น!</p>
+    <p style="font-size: 0.9rem;">• พนักงานประจำ รายได้ > 30,000 บาท เท่านั้น!</p>
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
@@ -265,7 +266,7 @@
   <!-- Option 3 -->
   <div class="card">
     <div class="card-header">ซื้อบ้านมือหนึ่งและมือสอง<br>สำหรับลูกค้าที่มีเงินดาวน์แล้ว </div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ & เจ้าของกิจการ รายได้ > 50,000 บาท<br>(สามารถรวมรายได้มากกว่า 1 ท่าน)</p>
+    <p style="font-size: 0.9rem;">• พนักงานประจำ & เจ้าของกิจการ รายได้ > 50,000 บาท<br>(สามารถรวมรายได้มากกว่า 1 ท่าน)</p>
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
